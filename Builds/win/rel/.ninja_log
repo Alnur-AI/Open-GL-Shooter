@@ -1,0 +1,27 @@
+# ninja log v5
+9798	12102	6587772403150352	CMakeFiles/Chess.dir/Sources/Engine/imgui/imgui_impl_opengl3.cpp.obj	2a30ce6d971c6383
+68	15922	6587772438823034	CMakeFiles/Chess.dir/Sources/Engine/Render/Shader/shader_compile.cpp.obj	2f44cd93299f46c8
+59	4010	6591506027389185	CMakeFiles/Chess.dir/Sources/Engine/input.cpp.obj	2a8804aeabd5f6c1
+121	10093	6587772382178740	CMakeFiles/Chess.dir/Sources/Engine/Render/Texture/texture.cpp.obj	e414570aad89e8b4
+174	9615	6587772377558471	CMakeFiles/Chess.dir/Sources/Engine/Render/world_renderer.cpp.obj	c32b3499fd281e9d
+20	3174	6592456914939073	CMakeFiles/Chess.dir/Sources/Application/context.cpp.obj	a14cf11e86a19a67
+21	9500	6609317631409061	CMakeFiles/Chess.dir/Sources/Game/game.cpp.obj	d7dfa5b24e3ae166
+156	10740	6587772389729328	CMakeFiles/Chess.dir/Sources/Engine/imgui/imgui_demo.cpp.obj	50bbc38370b1483b
+25939	59086	6587772873486383	CMakeFiles/Chess.dir/Sources/glad/glad.c.obj	5a2bf9f0a09da5fe
+82	15509	6587772436082817	CMakeFiles/Chess.dir/Sources/Engine/Render/Shader/shader.cpp.obj	715f41276074674b
+17	5822	6595770805660074	CMakeFiles/Chess.dir/Sources/Application/application.cpp.obj	1864c44d4ec38f45
+112	18720	6587772468895325	CMakeFiles/Chess.dir/Sources/Engine/Render/Shader/shader_factory.cpp.obj	e9a409588b87075a
+15654	20029	6587772482606434	CMakeFiles/Chess.dir/Sources/Engine/imgui/imgui_impl_sdl.cpp.obj	6c931d8093ad1012
+18988	25716	6587772539390724	CMakeFiles/Chess.dir/Sources/Engine/transform2d.cpp.obj	371ac067f1a7815d
+16200	30856	6587772590464550	CMakeFiles/Chess.dir/Sources/common.cpp.obj	f594506c5afee4aa
+54	37386	6587772655839449	CMakeFiles/Chess.dir/Sources/Engine/Render/Shader/shader_codegen.cpp.obj	da7e94ce6b5d43a8
+20180	38089	6587772662429940	CMakeFiles/Chess.dir/Sources/main.cpp.obj	ee99b96c9ab13ca6
+10991	39189	6587772674030829	CMakeFiles/Chess.dir/Sources/Engine/imgui/imgui_widgets.cpp.obj	61c4069ff5446120
+9343	41746	6587772699972784	CMakeFiles/Chess.dir/Sources/Engine/imgui/imgui.cpp.obj	f8e37efc9e54ab4
+138	42994	6587772712583704	CMakeFiles/Chess.dir/Sources/Engine/Render/Texture/texture2d.cpp.obj	661c5b2a8074aea5
+10210	43012	6587772712833731	CMakeFiles/Chess.dir/Sources/Engine/imgui/imgui_draw.cpp.obj	1dbd91b1dff48f04
+27955	49608	6587772778869177	CMakeFiles/Chess.dir/Sources/glm/detail/glm.cpp.obj	78389004602b2486
+9518	11015	6609317646897928	Chess.exe	40e13855e7e8d68a
+204	506	6588453569847383	CMakeFiles/Chess.dir/Sources/Game/control.cpp.obj	e130e61c918d52df
+20	9308	6609318831586635	CMakeFiles/Chess.dir/Sources/Game/game.cpp.obj	d7dfa5b24e3ae166
+9309	11290	6609318851679075	Chess.exe	40e13855e7e8d68a

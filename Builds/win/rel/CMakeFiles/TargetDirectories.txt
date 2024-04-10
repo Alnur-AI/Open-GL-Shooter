@@ -1,0 +1,3 @@
+D:/CG TASK 2/Shooter/Builds/win/rel/CMakeFiles/Chess.dir
+D:/CG TASK 2/Shooter/Builds/win/rel/CMakeFiles/edit_cache.dir
+D:/CG TASK 2/Shooter/Builds/win/rel/CMakeFiles/rebuild_cache.dir
